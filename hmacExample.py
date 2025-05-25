@@ -21,7 +21,7 @@ print(f"Mensaje original: {message}")
 print(f"Clave secreta: {secret_key}")
 print(f"HMAC generado: {hmac_code}")
 
-# Simular intercambio (como en tu ejemplo de clase)
+# Simular intercambio
 output = f"{message}\n{hmac_code}"
 print("\nDatos para 'archivo':")
 print(output)
